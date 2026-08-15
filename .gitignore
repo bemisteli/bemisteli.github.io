@@ -3,3 +3,6 @@ _site/
 *.Rproj.user/
 .Rhistory
 .DS_Store
+
+# Claude Code session logs
+.claude/logs/
