@@ -18,6 +18,8 @@ countries, covering field planning, protocol design and data collection.
 
 Three meta-analyses are currently running with a team of over 30 researchers, covering
 greenhouse gas pathways, wetland-type-specific emission responses, and biodiversity outcomes.
+The first is available as a preprint:
+[Coastal wetland restoration and greenhouse gas pathways](https://doi.org/10.31223/x51b39).
 
 ## EUPHORIA {#euphoria}
 

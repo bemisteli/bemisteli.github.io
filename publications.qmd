@@ -2,125 +2,164 @@
 title: "Publications"
 ---
 
-13 peer-reviewed publications, 2 under submission. My name is in **bold**.
-<!-- FIXME: ORCID and Google Scholar are dummy URLs — replace or delete this line. -->
-Profile pages:
-[ORCID](https://orcid.org/0000-0000-0000-0000) ·
-[Google Scholar](https://scholar.google.com/).
+16 peer-reviewed publications, three as first author. My name is in **bold**.
+
+[ORCID 0000-0002-7733-4354](https://orcid.org/0000-0002-7733-4354) ·
+[Google Scholar](https://scholar.google.com/citations?user=eBDwlcwAAAAJ&hl=en)
 
 ## Peer-reviewed
 
+### 2026
+
 ::: {.entry}
-**Misteli, B.**, Piscart, C., Llopis, S., Liao, A., Thiébaut, G., Pannard, A. (2025).
-Invasive macrophytes as refuge and habitat for zooplankton: insights from a mesocosm
-experiment. [*Hydrobiologia*.]{.venue}
-[doi:10.1007/s10750-025-06001-1](https://doi.org/10.1007/s10750-025-06001-1)
+Minaudo, C., Cabrera-Brufau, M., Montes-Pérez, J.J., Attermeyer, K., *et al.*
+(incl. **Misteli, B.**). Uncertainty in aquatic greenhouse gas flux estimates arises from
+subjective processing of floating chamber time series.
+[*Limnology and Oceanography: Methods* 24(7).]{.venue}
+[doi:10.1002/lom3.70054](https://doi.org/10.1002/lom3.70054)
 :::
 
 ::: {.entry}
+Cabrera-Brufau, M., Minaudo, C., Attermeyer, K., Camacho-Santamans, A., Carballeira, R.,
+**Misteli, B.**, *et al.* Assessing the effects of restoration and conservation on gaseous
+carbon fluxes and climate mitigation potential across six European coastal wetlands.
+[*Ecological Engineering* 232, 108080.]{.venue}
+[doi:10.1016/j.ecoleng.2026.108080](https://doi.org/10.1016/j.ecoleng.2026.108080)
+:::
+
+::: {.entry}
+Trottier, L.L., Lewerentz, A., Brzozowski, M., Bouma, K., *et al.* (incl. **Misteli, B.**).
+Growing together: early-career perspectives on the current state and future of macrophyte
+research. [*Aquatic Botany* 208, 104049.]{.venue}
+[doi:10.1016/j.aquabot.2026.104049](https://doi.org/10.1016/j.aquabot.2026.104049)
+:::
+
+::: {.entry}
+**Misteli, B.**, Piscart, C., Llopis, S., Liao, A., Thiébaut, G., Pannard, A.
+Invasive macrophytes as refuge and habitat for zooplankton: insights from a mesocosm
+experiment. [*Hydrobiologia* 853(4), 1289–1304.]{.venue}
+[doi:10.1007/s10750-025-06001-1](https://doi.org/10.1007/s10750-025-06001-1)
+:::
+
+### 2025
+
+::: {.entry}
 Fehlinger, L., Chaguaceda, F., Tirozzi, P., Tomás-Martín, M., Jakobsson, E., Chonova, T.,
-**Misteli, B.**, *et al.* (2025). Nutrients on the move: investigating large-scale fatty acid
-exports from European ponds via emerging insects.
-[*Limnology and Oceanography* 70, 2844–2857.]{.venue}
+**Misteli, B.**, *et al.* Nutrients on the move: investigating large-scale fatty acid exports
+from European ponds via emerging insects.
+[*Limnology and Oceanography* 70(10), 2844–2857.]{.venue}
 [doi:10.1002/lno.70180](https://doi.org/10.1002/lno.70180)
 :::
 
 ::: {.entry}
-Acharya, P., Yegon, M.J., Haferkemper, L., **Misteli, B.**, Griebler, C., Vitecek, S.,
-Attermeyer, K. (2025). Leaf conditioning and shredder activity shape microbial dynamics on
-fine particulate organic matter produced during decomposition of different leaf litter in
-streams. [*Microbial Ecology* 88.]{.venue}
-[doi:10.1007/s00248-025-02515-2](https://doi.org/10.1007/s00248-025-02515-2)
-:::
-
-::: {.entry}
-Nava, V., Dar, Y., De Santis, V., Fehlinger, L., Pasqualini, J., Adekolurejo, O., Burri, B.,
-Jabalera, M., Chonova, T., **Misteli, B.**, *et al.* (2025). Zooming in the plastisphere: the
-ecological interface for microalgae–plastic interactions in aquatic ecosystems.
-[*Biological Reviews* 100(2).]{.venue}
+Nava, V., Dar, J.Y., De Santis, V., Fehlinger, L., Pasqualini, J., Adekolurejo, O.A.,
+*et al.* (incl. **Misteli, B.**). Zooming in the plastisphere: the ecological interface for
+phytoplankton–plastic interactions in aquatic ecosystems.
+[*Biological Reviews* 100(2), 834–854.]{.venue}
 [doi:10.1111/brv.13164](https://doi.org/10.1111/brv.13164)
 :::
 
 ::: {.entry}
-Vermaat, J.E., Thiemer, K., Immerzeel, B., Schneider, S.C., Sebola, K., Coetzee, J.A.,
-Petruzzella, A., Motitsoe, S.N., Baldo, M., **Misteli, B.**, Thiébaut, G., Hilt, S.,
-Köhler, J., Harpenslager, S.F. (2024). Does perceived nuisance abundance of water plants match
-with willingness-to-pay for removal? Contrasts among different user categories.
-[*Environmental Management* 75.]{.venue}
+Acharya, P., Yegon, M.J., Haferkemper, L., **Misteli, B.**, Griebler, C., Vitecek, S.,
+Attermeyer, K. Leaf conditioning and shredder activity shape microbial dynamics on fine
+particulate organic matter produced during decomposition of different leaf litter in streams.
+[*Microbial Ecology* 88(1), 18.]{.venue}
+[doi:10.1007/s00248-025-02515-2](https://doi.org/10.1007/s00248-025-02515-2)
+:::
+
+::: {.entry}
+Vermaat, J.E., Thiemer, K., Immerzeel, B., Schneider, S.C., Sebola, K., Coetzee, J.,
+Petruzzella, A., Motitsoe, S.N., Baldo, M., **Misteli, B.**, *et al.* Does perceived nuisance
+abundance of water plants match with willingness-to-pay for removal? Contrasts among different
+user categories. [*Environmental Management* 75(3), 464–476.]{.venue}
 [doi:10.1007/s00267-024-02046-5](https://doi.org/10.1007/s00267-024-02046-5)
 :::
 
-::: {.entry}
-Vermaat, J.E., Thiemer, K., Immerzeel, B., Schneider, S.C., Sebola, K., Coetzee, J.A.,
-Petruzzella, A., Motitsoe, S.N., Baldo, M., **Misteli, B.**, Thiébaut, G., Hilt, S.,
-Köhler, J., Harpenslager, S.F. (2024). Mass development of aquatic plants: effects of
-contrasting management scenarios on a suite of ecosystem services.
-[*Journal of Applied Ecology* 61(1).]{.venue}
-[doi:10.1111/1365-2664.14539](https://doi.org/10.1111/1365-2664.14539)
-:::
+### 2024
 
 ::: {.entry}
 Schneider, S.C., Coetzee, J.A., Galvanese, E.F., Harpenslager, S.F., Hilt, S., Immerzeel, B.,
-Köhler, J., **Misteli, B.**, Motitsoe, S.N., Padial, A.A., Petruzzella, A., Schechner, A.,
-Thiébaut, G., Thiemer, K., Vermaat, J.E. (2024). Causes of macrophyte mass development and
-management recommendations.
-[*Science of the Total Environment* 931.]{.venue}
+Köhler, J., **Misteli, B.**, *et al.* Causes of macrophyte mass development and management
+recommendations. [*Science of the Total Environment* 931, 172960.]{.venue}
 [doi:10.1016/j.scitotenv.2024.172960](https://doi.org/10.1016/j.scitotenv.2024.172960)
 :::
 
 ::: {.entry}
-**Misteli, B.**, Pannard, A., Aasland, E., Harpenslager, S.F., Motitsoe, S.N., Thiemer, K.,
+Vermaat, J.E., Thiemer, K., Immerzeel, B., Schneider, S.C., Sebola, K., Coetzee, J.,
+Petruzzella, A., Motitsoe, S.N., Baldo, M., **Misteli, B.**, *et al.* Mass development of
+aquatic plants: effects of contrasting management scenarios on a suite of ecosystem services.
+[*Journal of Applied Ecology* 61(1), 76–89.]{.venue}
+[doi:10.1111/1365-2664.14539](https://doi.org/10.1111/1365-2664.14539)
+:::
+
+### 2023
+
+::: {.entry}
+**Misteli, B.**, Pannard, A., Aasland, E., Harpenslager, S.F., Motitsoe, S., Thiemer, K.,
 Llopis, S., Coetzee, J., Hilt, S., Köhler, J., Schneider, S.C., Piscart, C., Thiébaut, G.
-(2023). Short-term effects of macrophyte removal on aquatic biodiversity in rivers and lakes.
-[*Journal of Environmental Management* 325(Pt A).]{.venue}
+Short-term effects of macrophyte removal on aquatic biodiversity in rivers and lakes.
+[*Journal of Environmental Management* 325, 116442.]{.venue}
 [doi:10.1016/j.jenvman.2022.116442](https://doi.org/10.1016/j.jenvman.2022.116442)
 :::
 
 ::: {.entry}
 Fehlinger, L., **Misteli, B.**, Morant, D., Juvigny-Khenafou, N., Cunillera-Montcusí, D.,
-Chaguaceda, F., *et al.* (2023). The ecological role of permanent ponds in Europe: a review of
-dietary linkages to terrestrial ecosystems via emerging insects.
-[*Inland Waters* 13(1).]{.venue}
+Chaguaceda, F., *et al.* The ecological role of permanent ponds in Europe: a review of dietary
+linkages to terrestrial ecosystems via emerging insects.
+[*Inland Waters* 13(1), 30–46.]{.venue}
 [doi:10.1080/20442041.2022.2111180](https://doi.org/10.1080/20442041.2022.2111180)
 :::
 
+### 2022
+
 ::: {.entry}
-**Misteli, B.**, Pannard, A., Labat, L., Fosso, L.K., Baso, N.C., Harpenslager, S.F.,
-Motitsoe, S.N., Thiébaut, G., Piscart, C. (2022). How invasive macrophytes affect
-macroinvertebrate assemblages and sampling efficiency: results from a multinational survey.
-[*Limnologica* 96.]{.venue}
+**Misteli, B.**, Pannard, A., Labat, F., Fosso, L.K., Baso, N.C., Harpenslager, S.F.,
+Motitsoe, S.N., Thiébaut, G., Piscart, C. How invasive macrophytes affect macroinvertebrate
+assemblages and sampling efficiency: results from a multinational survey.
+[*Limnologica* 96, 125998.]{.venue}
 [doi:10.1016/j.limno.2022.125998](https://doi.org/10.1016/j.limno.2022.125998)
 :::
 
 ::: {.entry}
-Harpenslager, S.F., Thiemer, K., Levertz, C., **Misteli, B.**, Sebola, K.M., Schneider, S.C.,
-Hilt, S., Köhler, J. (2022). Short-term effects of macrophyte removal on emission of CO₂ and
-CH₄ in shallow lakes. [*Aquatic Botany* 182.]{.venue}
+Harpenslager, S.F., Thiemer, K., Levertz, C., **Misteli, B.**, Sebola, K., Schneider, S.,
+Hilt, S., Köhler, J. Short-term effects of macrophyte removal on emission of CO₂ and CH₄ in
+shallow lakes. [*Aquatic Botany* 182, 103555.]{.venue}
 [doi:10.1016/j.aquabot.2022.103555](https://doi.org/10.1016/j.aquabot.2022.103555)
 :::
 
 ::: {.entry}
 Drost, A.M., Siebers, A.R., Paillex, A., **Misteli, B.**, Peeters, E.T.H.M., Robinson, C.T.
-(2022). Long-lasting effects of experimental flow intermittency on alpine stream
-macroinvertebrates (Val Roseg, Switzerland).
-[*Hydrobiologia* 849(8).]{.venue}
+Long-lasting effects of experimental flow intermittency on alpine stream macroinvertebrates
+(Val Roseg, Switzerland). [*Hydrobiologia* 849(8), 1931–1946.]{.venue}
 [doi:10.1007/s10750-022-04843-7](https://doi.org/10.1007/s10750-022-04843-7)
 :::
 
+### 2020
+
 ::: {.entry}
-Siebers, A.R., Paillex, A., **Misteli, B.**, Robinson, C.T. (2020). Effects of an experimental
-increase in flow intermittency on an alpine stream.
+Siebers, A.R., Paillex, A., **Misteli, B.**, Robinson, C.T. Effects of an experimental increase
+in flow intermittency on an alpine stream.
 [*Hydrobiologia* 847(16), 3453–3470.]{.venue}
 [doi:10.1007/s10750-020-04350-7](https://doi.org/10.1007/s10750-020-04350-7)
 :::
 
-## Under submission
+## Preprints
 
 ::: {.entry}
 **Misteli, B.**, Morant, D., Camacho, A., Adamo, M., Bachi, G., Bègue, N., Bučas, M., *et al.*
 Coastal wetland restoration and greenhouse gas pathways: a global meta-analysis.
-[Submitted to *Global Change Biology*.]{.venue}
+[*EarthArXiv.* Under review at *Global Change Biology*.]{.venue}
+[doi:10.31223/x51b39](https://doi.org/10.31223/x51b39)
 :::
+
+::: {.entry}
+Bohaienko, V., Diele, F., Marangi, C., Martiradonna, A., **Misteli, B.** A decision support
+framework for climate-oriented coastal wetland restoration through process-based ecosystem
+modelling and optimization. [*SSRN.*]{.venue}
+[doi:10.2139/ssrn.7207503](https://doi.org/10.2139/ssrn.7207503)
+:::
+
+## Under submission
 
 ::: {.entry}
 Nava, V., Fehlinger, L., Jakobsson, E., Abbasi, M., Adekolurejo, O., Aurich, P., *et al.*
@@ -131,12 +170,27 @@ primary producers across lakes.
 
 ## In preparation
 
-Twelve manuscripts are in the writing phase, four of them as first author:
+First author:
 
 - Long-term effects of macrophyte removal on aquatic biodiversity in rivers and lakes
 - Influence of wetland restoration and alteration on GHG emissions across wetland types:
   a meta-analysis
 - Current knowledge on the impact of coastal wetland restoration on biodiversity:
   insights from a meta-analysis
-- A continuous trait-based framework for aquatic macrophyte life forms: the
-  emergent–floating–submerged (EFS) continuum *(co-author)*
+
+Several further co-authored manuscripts are in the writing phase, covering prokaryotic
+community structure in restored coastal wetlands, dissolved organic matter dynamics in
+European wetlands, seagrass meadow restoration indicators, the Camargue case study, and a
+trait-based framework for aquatic macrophyte life forms.
+
+## Theses
+
+::: {.entry}
+**Misteli, B.** (2022). *The structuring role of macrophytes on aquatic communities: an
+international and multigroup approach.* [PhD thesis, Université de Rennes 1.]{.venue}
+:::
+
+::: {.entry}
+**Misteli, B.** (2019). *Flow intermittency relations on biodiversity in an alpine fluvial
+network.* [MSc thesis, ETH Zürich.]{.venue}
+:::
