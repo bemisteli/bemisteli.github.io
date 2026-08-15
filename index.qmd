@@ -4,10 +4,9 @@ subtitle: "Freshwater ecologist — biodiversity, restoration ecology, ecosystem
 toc: false
 ---
 
-<!-- FIXME: confirm current position. Your CV lists WasserCluster Lunz as 03/2023–11/2025,
-     which has ended. Replace the line below with your current affiliation. -->
 ::: {.callout-note appearance="simple"}
-**Current position:** _to be confirmed_
+**Scientist at Eawag**, Swiss Federal Institute of Aquatic Science and Technology,
+Dübendorf, Switzerland.
 :::
 
 I am a freshwater ecologist working on biodiversity, restoration ecology and ecosystem
@@ -17,25 +16,26 @@ interdisciplinary approaches to understand how aquatic vegetation dynamics and r
 interventions affect both ecosystems and the people who use them.
 
 I did my MSc at ETH Zürich and my PhD at Université de Rennes 1, where I studied the impacts
-of macrophyte management in an international, interdisciplinary setting. Most recently I
-worked in the Horizon Europe project [RESTORE4Cs](research.qmd#restore4cs), examining coastal
-wetland restoration as a tool for climate mitigation. I also lead
-[EUPHORIA](research.qmd#euphoria), a Europe-wide project coordinating more than 110
-early-career researchers to study macrophyte phenology and build citizen science around it.
+of macrophyte management in an international, interdisciplinary setting. I then spent three
+years at WasserCluster Lunz on the Horizon Europe project
+[RESTORE4Cs](research.qmd#restore4cs), examining coastal wetland restoration as a tool for
+climate mitigation. Alongside this I lead [EUPHORIA](research.qmd#euphoria), a Europe-wide
+project coordinating more than 110 early-career researchers to study macrophyte phenology and
+build citizen science around it.
 
 I have worked in Switzerland, Germany, Austria, France, Lithuania, the Netherlands, Romania,
 Spain, Portugal and South Africa.
 
 ## Elsewhere
 
-<!-- FIXME: add your real profile URLs, delete the ones you don't use. -->
+<!-- FIXME: ORCID and Google Scholar are still dummy URLs — replace or delete.
+     The email is my inference from Eawag's firstname.lastname convention: confirm it. -->
 ::: {.links}
-[Email](mailto:benjamin.misteli@wcl.ac.at) ·
+[Email](mailto:benjamin.misteli@eawag.ch) ·
 [ORCID](https://orcid.org/0000-0000-0000-0000) ·
 [Google Scholar](https://scholar.google.com/) ·
-[ResearchGate](https://www.researchgate.net/) ·
-[GitHub](https://github.com/bemisteli) ·
-[Bluesky](https://bsky.app/)
+[LinkedIn](https://www.linkedin.com/in/bmisteli) ·
+[GitHub](https://github.com/bemisteli)
 :::
 
 ## Current focus

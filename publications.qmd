@@ -3,7 +3,8 @@ title: "Publications"
 ---
 
 13 peer-reviewed publications, 2 under submission. My name is in **bold**.
-Profile pages: <!-- FIXME: add real URLs -->
+<!-- FIXME: ORCID and Google Scholar are dummy URLs — replace or delete this line. -->
+Profile pages:
 [ORCID](https://orcid.org/0000-0000-0000-0000) ·
 [Google Scholar](https://scholar.google.com/).
 

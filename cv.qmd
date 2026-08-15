@@ -8,8 +8,12 @@ title: "CV"
 
 ## Contact
 
-<!-- FIXME: confirm current affiliation and email address. -->
-Email: [benjamin.misteli@wcl.ac.at](mailto:benjamin.misteli@wcl.ac.at)
+Eawag, Swiss Federal Institute of Aquatic Science and Technology<br>
+Überlandstrasse 133, 8600 Dübendorf, Switzerland
+
+<!-- FIXME: email inferred from Eawag's firstname.lastname convention — confirm before push. -->
+Email: [benjamin.misteli@eawag.ch](mailto:benjamin.misteli@eawag.ch)<br>
+[LinkedIn](https://www.linkedin.com/in/bmisteli)
 
 ## Education
 
@@ -34,6 +38,21 @@ of alpine springs in the Bernese Alps.* Supervisors: Peter Nagel, Stefanie von F
 :::
 
 ## Research experience
+
+::: {.entry}
+**Scientist** — Eawag, Swiss Federal Institute of Aquatic Science and Technology, Dübendorf
+[2026–]{.venue}<br>
+<!-- FIXME: add your department and a sentence on the current project if you want them public.
+     I have not written "Department of Aquatic Ecology" here — that is only an inference from
+     your Eawag cover letter, and your LinkedIn does not state it. -->
+Postdoctoral Researcher March–May 2026, Scientist since June 2026.
+:::
+
+::: {.entry}
+**Guest Researcher** — WasserCluster Lunz, Biologische Station, Austria
+[2025–2026]{.venue}<br>
+Continued work on the RESTORE4Cs meta-analyses following the postdoctoral contract.
+:::
 
 ::: {.entry}
 **Postdoctoral Researcher** — WasserCluster Lunz, Biologische Station, Austria
