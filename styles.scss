@@ -1,0 +1,42 @@
+/*-- scss:defaults --*/
+
+// Muted blue-green, picked to sit calmly behind text rather than shout.
+$primary:   #2a6f7f !default;
+$body-color: #232629 !default;
+$link-color: $primary !default;
+
+$font-family-sans-serif: "Source Sans Pro", -apple-system, "Segoe UI", Roboto, sans-serif !default;
+$font-size-root: 17px !default;
+$headings-font-weight: 600 !default;
+
+/*-- scss:rules --*/
+
+body {
+  line-height: 1.6;
+}
+
+// Keep line length readable; Bootstrap's default container is too wide for prose.
+main {
+  max-width: 54rem;
+}
+
+h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #e3e6e8;
+}
+
+// Publication and CV entries: hanging indent so the year/author line leads.
+.entry {
+  margin-bottom: 1.1rem;
+}
+
+.entry .venue {
+  color: #5c6569;
+}
+
+// Inline link row under the intro on the home page.
+.links a {
+  margin-right: 1rem;
+  white-space: nowrap;
+}

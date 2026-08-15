@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Benjamin Misteli"
+  description: "Freshwater ecologist working on biodiversity, restoration ecology and ecosystem function."
+  site-url: https://bemisteli.github.io
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    left: "© 2026 Benjamin Misteli"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: true
+    toc-depth: 2
+    anchor-sections: true

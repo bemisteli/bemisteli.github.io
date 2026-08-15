@@ -1,0 +1,124 @@
+---
+title: "CV"
+---
+
+<!-- FIXME: export a public CV (no birth date, no private phone number) to files/cv.pdf,
+     then uncomment the line below. -->
+<!-- [Download CV (PDF)](files/cv.pdf) -->
+
+## Contact
+
+<!-- FIXME: confirm current affiliation and email address. -->
+Email: [benjamin.misteli@wcl.ac.at](mailto:benjamin.misteli@wcl.ac.at)
+
+## Education
+
+::: {.entry}
+**PhD in Ecology and Evolution** — Université de Rennes 1, France [2019–2022]{.venue}<br>
+*The structuring role of macrophytes on aquatic communities: an international and multigroup
+approach.* Supervisors: Gabrielle Thiébaut, Christophe Piscart, Alexandrine Pannard.
+:::
+
+::: {.entry}
+**MSc in Environmental Sciences** (Ecology and Evolution) — ETH Zürich, Switzerland
+[2017–2019]{.venue}<br>
+*Flow intermittency relations on biodiversity in an alpine fluvial network.*
+Supervisors: Amael Paillex, Christopher Robinson.
+:::
+
+::: {.entry}
+**BSc in Geosciences** (Biogeography and Applied Ecology) — University of Basel, Switzerland
+[2012–2017]{.venue}<br>
+*Springs under climatic stress? The influence of water temperature on the species assemblage
+of alpine springs in the Bernese Alps.* Supervisors: Peter Nagel, Stefanie von Fumetti.
+:::
+
+## Research experience
+
+::: {.entry}
+**Postdoctoral Researcher** — WasserCluster Lunz, Biologische Station, Austria
+[2023–2025]{.venue}<br>
+EU Horizon project RESTORE4Cs. Led the state-of-the-art deliverable on coastal wetland
+restoration; lead author on multiple large-scale meta-analyses of restoration effects on
+carbon cycling and biodiversity; coordinated and conducted fieldwork across Europe.
+:::
+
+::: {.entry}
+**PhD Student and Research Contract** — Université de Rennes 1, France [2019–2023]{.venue}<br>
+Impacts of macrophyte removal on aquatic biodiversity across phytoplankton, zooplankton and
+macroinvertebrates. Designed and ran field and mesocosm experiments across multiple sites and
+continents; contributed to assessments of carbon fluxes, ecosystem services and
+willingness-to-pay.
+:::
+
+::: {.entry}
+**Research Assistant** — Eawag, Switzerland [2017–2019]{.venue}<br>
+InterNet project on intermittent alpine streams. Fieldwork, experiment setup,
+macroinvertebrate identification, data analysis, stable isotope sample preparation.
+:::
+
+## Awards
+
+- **National Winner (France), Brian Moss Student Competition** (SIL, 2023) — best published
+  paper in limnology from a PhD or MSc thesis
+- **EFFS PhD Award, France** (2023) — selected among winning theses by the Association
+  Française de Limnologie and nominated for the European EFFS PhD Award
+
+## Grants
+
+- Project funding for EUPHORIA as 5th Collaborative European Freshwater Science Project for
+  Young Researchers, €10,150 (2025)
+- International Communication Grant, Österreichische Forschungsgemeinschaft (ÖFG), €500 (2023)
+- Wetzel Memorial Travel Grant, International Society of Limnology, €500 (2021)
+- AFL Travel Grant, €300 (2021)
+
+## Service and affiliations
+
+**International Society of Limnology (SIL)** — executive board member, Global Outreach ECR
+representative (2025–); Communication Committee member (2024–); contributed to the creation
+of the SIL ECR Committee (2024–).
+
+**EFYR** (European Fresh and Young Researchers, ECR committee within EFFS) — member (2023–).
+
+Member of ASLO, SIL, SIL-Austria and SGHL.
+
+## Editorial
+
+**Associate Editor, *Inland Waters*** — Associate Editor in Training (2021–2023), Associate
+Editor since 2023, mentor for the Associate Editor in Training programme since 2024.
+
+**Reviewer for** Aquatic Botany, Journal of Applied Ecology, Inland Waters, Journal of
+Limnology, International Review of Hydrobiology, Freshwater Biology, Hydrobiologia.
+
+## Supervision
+
+Supported the work of one PhD student (Pratiksha Acharya, 2023–2024), two Master's thesis
+students (Augustin Soulard, 2021; Johanna Busch, ongoing), two first-year Master's students
+(Céleste Equilbey and Morgane Menvielle, 2020) and one summer intern (Séréna Hadfield, 2021).
+
+## Selected talks
+
+**Invited seminars** — University of Hamburg (2025); CNR Pisa (2025); Swiss Society for
+Hydrology and Limnology virtual seminar series (2025); Biologicum Almtal, University of
+Vienna (2025); SIL Austria conference (2025).
+
+**Session chair** — ASLO-SIL 2026, Montreal (upcoming); SEFS 14, Bolu (2025); SEFS 13,
+Newcastle (2023).
+
+**Conference talks** — SEFS 14 Bolu (2025, two talks); SIL Austria (2024); SEFS 13 Newcastle
+(2023); SIL100 Berlin (2022); SEFS 12 (2021). Posters at SEFS 13 (2023), SEFS 12 (2021) and
+SEFS 11 Zagreb (2019).
+
+## Skills
+
+**Taxonomic and analytical** — macroinvertebrates, macrophytes, zooplankton, phytoplankton;
+biodiversity data handling and analysis.
+
+**Field** — sampling of macroinvertebrates, macrophytes, phytoplankton, zooplankton,
+environmental variables, flow intermittency, greenhouse gas fluxes and carbon stocks, across
+streams, rivers, ponds, lakes, springs and wetlands.
+
+**Countries worked in** — Switzerland, Germany, Austria, France, Lithuania, the Netherlands,
+Romania, Spain, Portugal, South Africa.
+
+**Languages** — German (native), English (fluent), French (professional), Italian (beginner).

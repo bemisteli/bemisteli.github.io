@@ -1,0 +1,71 @@
+---
+title: "Research"
+---
+
+My research asks how aquatic vegetation and restoration interventions shape freshwater and
+coastal ecosystems — and what that means for carbon, biodiversity and the people managing
+these systems. Below are the projects I lead or contribute to.
+
+## RESTORE4Cs {#restore4cs}
+
+_Horizon Europe · 2023–_
+
+Assessing the role of coastal wetland restoration in climate mitigation. I led the writing of
+the project's state-of-the-art deliverable on coastal wetland restoration, and I coordinate
+several large-scale meta-analyses on how restoration affects carbon cycling and biodiversity.
+On the field side, I coordinated and conducted a 24-week sampling campaign across six European
+countries, covering field planning, protocol design and data collection.
+
+Three meta-analyses are currently running with a team of over 30 researchers, covering
+greenhouse gas pathways, wetland-type-specific emission responses, and biodiversity outcomes.
+
+## EUPHORIA {#euphoria}
+
+_European Federation of Freshwater Sciences FreshProject · PI · 2025–_
+
+EUPHORIA studies macrophyte phenology across a European climatic gradient. As principal
+investigator I coordinate more than 110 early-career researchers from 22 countries — project
+design, standardised field protocols, participant training, team formation, finances and
+workshops. The project also develops citizen science initiatives around aquatic plant
+monitoring.
+
+Funded as the 5th Collaborative European Freshwater Science Project for Young Researchers.
+
+## Macrophyte management and aquatic biodiversity
+
+_PhD, Université de Rennes 1 · 2019–2023_
+
+My doctoral work asked what happens to aquatic communities when macrophytes are removed —
+a common management response to mass plant development. Working across sites in Europe and
+South Africa, I combined multinational field surveys with mesocosm experiments to track
+responses in phytoplankton, zooplankton and macroinvertebrates, and contributed to
+assessments of carbon fluxes, ecosystem services and willingness-to-pay for removal.
+
+The short-term biodiversity results are published in _Journal of Environmental Management_;
+the long-term analysis is in preparation.
+
+## Collaborative projects
+
+**Global Littoral Zone GHG Flux Database** (2025–) — contributing to a global sampling campaign
+on methane and CO₂ fluxes from macrophyte-dominated littoral zones, feeding an open-access
+database and a collaborative publication.
+
+**EFS Macrophyte Life Form Dataset** (2024–) — species-level trait data on morphology and
+functional structure for a global standardised dataset of aquatic plant life forms.
+
+**PhytoPlastic** (2022–) — algal colonisation of plastics in aquatic systems; data management,
+analysis and outreach.
+
+**EUROPONDS** (2020–) — emerging insects from ponds across Europe; co-lead on collaborative
+manuscript writing, plus data management and outreach.
+
+## Earlier work
+
+**Flow intermittency in alpine streams** — as a research assistant at Eawag on the InterNet
+project, I worked on experimental manipulation of flow intermittency in the Val Roseg,
+Switzerland, covering fieldwork, macroinvertebrate identification and stable isotope sample
+preparation. This continued from my MSc at ETH Zürich on flow intermittency and biodiversity
+in an alpine fluvial network.
+
+**Alpine springs under climatic stress** — my BSc at the University of Basel examined how water
+temperature shapes species assemblages in alpine springs in the Bernese Alps.
